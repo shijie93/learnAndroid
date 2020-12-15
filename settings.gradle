@@ -1,0 +1,6 @@
+rootProject.name='FirstAndroidProject'
+include ':app'
+include ':app:myapplication'
+include ':app:livedata'
+include ':app:mysharedpreference'
+include ':app:datasave'

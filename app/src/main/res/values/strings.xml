@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstAndroidProject</string>
+    <string name="text1">展示区域</string>
+    <string name="button1">左</string>
+    <string name="button2">右</string>
+    <string name="switch1">开关</string>
+    <string name="button3">确定</string>
+    <string name="editTextHint">请输入数值</string>
+    <string name="radiobutton1">Apple</string>
+    <string name="radiobutton2">Android</string>
+    <string name="todo">TODO</string>
+    <string name="checkbox1">语文</string>
+    <string name="checkbox2">数学</string>
+    <string name="checkbox3">英语</string>
+</resources>
